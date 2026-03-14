@@ -3,8 +3,8 @@ import CafeInfo from '../CafeInfo/CafeInfo';
 import VoteOptions from '../VoteOptions/VoteOptions';
 import VoteStats from '../VoteStats/VoteStats';
 import Notification from '../Notification/Notification';
-import type Votes from '../../types/Votes/votes';
-import type { VoteType } from '../../types/Votes/votes';
+import type Votes from '../../types/votes.ts';
+import type { VoteType } from '../../types/votes.ts';
 
 import css from './App.module.css';
 
